@@ -153,18 +153,10 @@
       });
       aos_init();
     });
-
-    // Initiate venobox (lightbox feature used in portofilo)
-    $(document).ready(function () {
-      $('.venobox').venobox({
-        'share': false
-      });
-    });
   });
 
   // Init AOS
   function aos_init() {
-    console.log('aos')
     AOS.init({
       duration: 1000,
       once: true
