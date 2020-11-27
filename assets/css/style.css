@@ -1561,3 +1561,12 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.portfolio{
+  padding: 60px 0;
+  overflow: hidden;
+}
+
+.portfolio .portfolio-item {
+  margin-bottom: 30px;
+}
