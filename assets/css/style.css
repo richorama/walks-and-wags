@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #fcb5e3;
+  background: #cc2692;
   color: #fff;
 }
 
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background: #fcb5e3;
+  background: #cc2692;
   color: #fff;
 }
 
@@ -509,7 +509,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #fcb5e3;
+  background: #cc2692;
   margin: 4px 10px;
 }
 
@@ -584,7 +584,7 @@ section {
 }
 
 .about .content .learn-more-btn:hover {
-  background: #fcb5e3;
+  background: #cc2692;
   color: #fff;
 }
 
@@ -693,15 +693,16 @@ section {
 
 .features .icon-box {
   display: flex;
-  align-items: center;
   padding: 20px;
   transition: 0.3s;
   border: 1px solid #eef0ef;
+  background: #e7ffec;
 }
 
 .features .icon-box i {
-  font-size: 32px;
-  padding-right: 10px;
+  font-size: 82px;
+  padding-right: 20px;
+  padding-top: 10px;
   line-height: 1;
 }
 
@@ -718,13 +719,6 @@ section {
   transition: 0.3s;
 }
 
-.features .icon-box:hover {
-  border-color: #f649b9;
-}
-
-.features .icon-box:hover h3 a {
-  color: #f649b9;
-}
 
 /*--------------------------------------------------------------
 # Courses
@@ -1221,7 +1215,7 @@ section {
 }
 
 .pricing .btn-buy:hover {
-  background: #fcb5e3;
+  background: #cc2692;
 }
 
 .pricing .featured h3 {
@@ -1379,7 +1373,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #fcb5e3;
+  background: #cc2692;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1526,7 +1520,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #fcb5e3;
+  background: #cc2692;
 }
 
 #footer .credits {
@@ -1535,7 +1529,7 @@ section {
 }
 
 #footer .credits a {
-  color: #fcb5e3;
+  color: #cc2692;
   transition: 0.3s;
 }
 
@@ -1559,7 +1553,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #fcb5e3;
+  background: #cc2692;
   color: #fff;
   text-decoration: none;
 }
