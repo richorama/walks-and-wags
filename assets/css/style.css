@@ -18,7 +18,7 @@ a {
 }
 
 a:hover {
-  color: #86db9f;
+  color: #db259b;
   text-decoration: none;
 }
 
@@ -669,7 +669,7 @@ section {
   padding: 18px;
   color: #f649b9;
   margin-bottom: 30px;
-  background: #ecf9f0;
+  background: #ffedf9;
   border-radius: 50px;
 }
 
@@ -1260,7 +1260,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #ecf9f0;
+  background: #ffedf9;
   display: flex;
   justify-content: center;
   align-items: center;
