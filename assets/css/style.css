@@ -51,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top i:hover {
-  background: #3ac162;
+  background: #fcb5e3;
   color: #fff;
 }
 
@@ -273,7 +273,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .get-started-btn:hover {
-  background: #3ac162;
+  background: #fcb5e3;
   color: #fff;
 }
 
@@ -579,10 +579,12 @@ section {
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
+  margin-bottom: 12px;
+  margin-right: 12px;
 }
 
 .about .content .learn-more-btn:hover {
-  background: #3ac162;
+  background: #fcb5e3;
   color: #fff;
 }
 
@@ -1219,7 +1221,7 @@ section {
 }
 
 .pricing .btn-buy:hover {
-  background: #3ac162;
+  background: #fcb5e3;
 }
 
 .pricing .featured h3 {
@@ -1377,7 +1379,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #3ac162;
+  background: #fcb5e3;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1524,7 +1526,7 @@ section {
 }
 
 #footer .footer-newsletter form input[type="submit"]:hover {
-  background: #3ac162;
+  background: #fcb5e3;
 }
 
 #footer .credits {
@@ -1533,7 +1535,7 @@ section {
 }
 
 #footer .credits a {
-  color: #3ac162;
+  color: #fcb5e3;
   transition: 0.3s;
 }
 
@@ -1557,7 +1559,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #3ac162;
+  background: #fcb5e3;
   color: #fff;
   text-decoration: none;
 }
