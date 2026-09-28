@@ -1672,8 +1672,7 @@ section { padding: 88px 0; }
 .button-primary:hover { background: var(--pink-dark); color: #fff; box-shadow: 0 8px 24px rgba(181, 28, 121, 0.22); }
 .button-light { color: var(--ink); background: #fff; border-color: var(--border); }
 .button-light:hover { color: var(--pink); background: var(--pink-soft); }
-.hero-note { display: flex; align-items: center; gap: 8px; margin: 24px 0 0; font-size: 13px; color: var(--muted); }
-.hero-note i { color: var(--pink); font-size: 18px; }
+.eyebrow.hero-note { margin: 24px 0 0; }
 
 .eyebrow, .section-title .eyebrow {
   color: var(--pink);
@@ -1817,7 +1816,6 @@ section { padding: 88px 0; }
   .hero-description { font-size: 16px; }
   #hero .eyebrow { font-size: 10px; max-width: 280px; }
   .button { padding: 13px 20px; }
-  .hero-note { font-size: 12px; }
   .trust-items { align-items: flex-start; flex-direction: column; gap: 14px; }
   .trust-items span { font-size: 13px; }
   .section-title { padding-bottom: 28px; }
